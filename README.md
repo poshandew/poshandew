@@ -1,4 +1,3 @@
-![N|Solid](https://drive.google.com/uc?export=view&id=1OU8yTzWm5ieKMQNll-2A4vfHpQrngvu2)
 <h1 align="center">Hi 👋, I'm Poshan Dewangan</h1>
 <h3 align="center">Data Analyst </h3>
 
