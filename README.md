@@ -7,11 +7,11 @@
 
 - 🌱🌱 I’m currently learning **Power BI, SQL, Data Visualization, Machine Learning**
 
-👯 I’m looking to collaborate on **Data Analysis, Data Visualization, and Predictive Analytics Projects**
+- 👯 I’m looking to collaborate on **Data Analysis, Data Visualization, and Predictive Analytics Projects**
 
-💬 Ask me about **SQL, Data Analysis, Python, Tableau**
+- 💬 Ask me about **SQL, Data Analysis, Python, Tableau**
 
-📫 How to reach me: **poshandew2904@gmail.com**
+- 📫 How to reach me: **poshandew2904@gmail.com**
 
 - ⚡ Fun fact **I'm a data detective, constantly solving puzzles and uncovering hidden insights. No mystery is too complex when it comes to data analysis!**
 
@@ -43,28 +43,26 @@
 <h3 align="left">Connect with me:</h3>
 <hr>
 <p align="left">
-<a href="https://www.linkedin.com/in/datawithabhishek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-jain-383b3325b" height="30" width="40" /></a>
-<a href="https://medium.com/@datawithabhishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@datawithabhishek" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/datawithabhishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/datawithabhishek?hr_r=1" height="30" width="40" /></a>
-<a href="https://leetcode.com/datawithabhishek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/datawithabhishek/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/poshandewangan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/poshandew/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-jain-383b3325b" height="30" width="40" /></a>
+<a href="[https://leetcode.com/datawithabhishek](https://public.tableau.com/app/profile/poshan.dewangan/vizzes)/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tableau-public.svg" alt="https://leetcode.com/datawithabhishek/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <hr>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left">  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> </p>
 <h3 align="lest"> Stats: </h3>
 <hr>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datawithabhishek&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poshandew&theme=chartreuse_dark)
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=datawithabhishek&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=datawithabhishek&theme=chartreuse_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=poshandew&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=poshandew&theme=chartreuse_dark&utcOffset=8)
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Datawithabhishek&theme=github-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=poshandew&theme=github-dark)](https://git.io/streak-stats)
 
 
 ```python
