@@ -1,18 +1,7 @@
 ![N|Solid](https://drive.google.com/uc?export=view&id=1OU8yTzWm5ieKMQNll-2A4vfHpQrngvu2)
-<h1 align="center">Hi 👋, I'm Abhishek Jain</h1>
+<h1 align="center">Hi 👋, I'm Poshan Dewangan</h1>
 <h3 align="center">Data Analyst </h3>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F73F&width=435&lines=Data+Scientist+Intern+At+Almabetter;Always+Learn+New+Things" alt="Typing SVG" /></a>
 
-
-<p align="center"> 
-
-     
-  <img src="https://profile-counter.glitch.me/manojuppala/count.svg" />
-</p>
-
-<br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; **About me**
 
